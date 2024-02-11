@@ -12,5 +12,5 @@ pool:
 steps:
 - script: |
     chmod +x deploy.sh
-    ./deploy.sh
+    ./app.sh
   displayName: 'Run deploy.sh'

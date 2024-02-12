@@ -13,5 +13,4 @@ steps:
 - script: |
     chmod +x app.sh
     cat app.sh
-    ./app.sh
   displayName: 'Run app.sh'
